@@ -1,12 +1,12 @@
 /*
 Everybody say Happy Birthday! This gift is a compound of various pens plus some other things I added
-- gift 
+- gift
 https://codepen.io/ElaineXu/pen/EWvGWX
-- neon 
+- neon
 https://codepen.io/markheggan/pen/LjrVYN
-- fireworks 
+- fireworks
 https://codepen.io/chuongdang/pen/yzpDG
-- moon 
+- moon
 https://codepen.io/agelber/pen/sjIKp
 */
 window.requestAnimFrame = function () {
@@ -306,7 +306,7 @@ function reveal() {
 	}
 
 	var ifrm = document.createElement("iframe");
-	ifrm.setAttribute("src", "https://www.youtube.com/embed/KDxJlW6cxRk?controls=0&loop=1&autoplay=1");
+	ifrm.setAttribute("src", "https://www.youtube.com/embed/oCyalfbJZDI?controls=0&loop=1&autoplay=1");
 	//ifrm.style.width = `${w}px`;
 	//ifrm.style.height = `${h}px`;
 	ifrm.style.border = 'none';
